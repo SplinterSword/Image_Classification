@@ -8,6 +8,8 @@ tensorflow = "*"
 ipykernel = "*"
 matplotlib = "*"
 scikit-learn = "*"
+pandas = "*"
+keras-tuner = "*"
 
 [dev-packages]
 
