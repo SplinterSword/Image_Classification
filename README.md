@@ -6,7 +6,7 @@ A deep learning project that implements a Convolutional Neural Network (CNN) for
 
 ```
 .
-├── data/                    # Dataset and data processing scripts
+├── data/                   # Dataset and data processing scripts
 │   ├── README.md           # Dataset documentation
 │   └── download.py         # Script to download the CIFAR-10 dataset
 ├── src/                    # Source code
