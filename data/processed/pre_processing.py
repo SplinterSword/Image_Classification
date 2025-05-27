@@ -52,8 +52,8 @@ def save_dataset(processed_x_train, processed_y_train, save_path='data/processed
     np.save(os.path.join(save_path, 'y_train.npy'), y_train)
 
 if __name__ == '__main__':
-    x_train = np.load("/home/splintersword/Documents/Computers/Image_Classification/data/raw/x_train.npy")
-    y_train = np.load("/home/splintersword/Documents/Computers/Image_Classification/data/raw/y_train.npy")
+    x_train = np.load("/home/splintersword/Documents/Projects/Image_Classification/data/raw/x_train.npy")
+    y_train = np.load("/home/splintersword/Documents/Projects/Image_Classification/data/raw/y_train.npy")
 
     processed_x_train, processed_y_train = preprocess_cifar_data(x_train, y_train, False)
 

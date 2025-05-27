@@ -4,12 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-tensorflow = "*"
+tensorflow = {extras = ["and-cuda"], version = "*"}
+numpy = "*"
+scikit-learn = "*"
+keras-tuner = "*"
 ipykernel = "*"
 matplotlib = "*"
-scikit-learn = "*"
-pandas = "*"
-keras-tuner = "*"
+seaborn = "*"
 
 [dev-packages]
 
