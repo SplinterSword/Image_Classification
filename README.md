@@ -30,7 +30,7 @@ A deep learning project that implements a Convolutional Neural Network (CNN) for
 
 ### Live Demo
 
-Link = 
+Link = https://imageclassificationsplintersword.streamlit.app/
 
 ## Requirements
 
