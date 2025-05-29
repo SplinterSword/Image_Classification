@@ -11,6 +11,8 @@ keras-tuner = "*"
 ipykernel = "*"
 matplotlib = "*"
 seaborn = "*"
+streamlit = "*"
+pillow = "*"
 
 [dev-packages]
 

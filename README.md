@@ -27,6 +27,11 @@ A deep learning project that implements a Convolutional Neural Network (CNN) for
 - **Model Evaluation**: Includes accuracy, loss visualization, and confusion matrix
 - **Model Persistence**: Save and load trained models for inference
 
+
+### Live Demo
+
+Link = 
+
 ## Requirements
 
 - Python 3.8+
